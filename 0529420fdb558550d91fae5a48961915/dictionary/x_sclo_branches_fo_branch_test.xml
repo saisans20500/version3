@@ -10,6 +10,7 @@
         <element label="Masterstring20" max_length="100" name="masterstring20" type="string"/>
         <element label="Masterstring21" max_length="100" name="masterstring21" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="version3branch25" max_length="100" name="version3branch25" type="string"/>
         <element label="version3branch26" max_length="100" name="version3branch26" type="string"/>
     </element>
 </database>
